@@ -24,7 +24,7 @@ This repository contains the implementation of a systematic procedure to address
 
 ### Prerequisites
 
-- Python 3.12.0
+- Python 3.9.18
 - requirements.txt
 
 ### Installation
