@@ -6,17 +6,17 @@ This repository contains the implementation of a systematic procedure to address
 
 ## Features
 
-- **Raw Information:** Handle raw information collected from various sources in power distribution networks.
+- **Raw Information:** Information collected from various sources in power distribution networks not exploitable without transformation.
 
-- **Transformation Functions:** Implement a set of functions to transform raw information into well-defined information for analysis.
+- **Transformation Functions:** Set of functions to transform raw information into well-defined information.
 
-- **Well-Defined Information:** Convert raw data into structured and reliable information suitable for path identification.
+- **Well-Defined Information:** Information exploitable by an algorithm for path identification.
 
-- **Real Paths:** Analyze and identify the actual paths within the distribution network based on accurate information.
+- **Real Paths:** Current real paths within the distribution network.
 
-- **Hypothetical Paths:** Define and generate hypothetical paths considering initial point knowledge and unknown connections.
+- **Hypothetical Paths:** Paths considering initial point knowledge and unknown connections.
 
-- **Active and Backup Paths:** Identify both active and backup paths within the distribution network for comprehensive analysis.
+- **Active and Backup Paths:** Paths within the distribution network for comprehensive analysis.
 
 - **Hypothetical Paths Compatible with Well-Defined Information:** Utilize an algorithm to determine a subset of hypothetical paths compatible with the transformed, well-defined information.
 
