@@ -37,7 +37,7 @@ This repository contains the implementation of a systematic procedure to address
   ```pip install -r requirements.txt```
 
 ## Usage
-[Provide instructions on how to use or run the project.]
+Run ```TPI.ipynb``` notebook.
 
 ## License
 This project is licensed under the Apache license 2.0.
